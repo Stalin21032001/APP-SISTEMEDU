@@ -1,4 +1,7 @@
 # SistemaEducativo(App)
+
+![image](https://github.com/Stalin21032001/APP-SISTEMEDU/assets/105472176/09bdde76-0594-4760-b1fc-8f759a29a987)
+
 ## Acerca de:
 Nuestra aplicación de software educativo utiliza Flask y MySQL para brindar un sistema eficiente y seguro. Con Flask, desarrollamos una interfaz web intuitiva y adaptable, permitiendo a los usuarios acceder a contenido educativo y gestionar su progreso. La integración con MySQL nos proporciona una base de datos robusta para almacenar información de estudiantes, calificaciones y materiales de estudio. Con esta combinación tecnológica, ofrecemos una plataforma educativa completa y personalizable que optimiza el aprendizaje y facilita la administración de recursos en un entorno educativo.
 
@@ -6,6 +9,8 @@ Nuestra aplicación de software educativo utiliza Flask y MySQL para brindar un 
 2. Stalin Cacuango -> FRONTEND - BBDD
 3. Ronny Michilena -> FRONTEND - BBDD
 4. Mauricio Vega -> FRONTEND - BBDD
+
+![grupo](https://github.com/Stalin21032001/APP-SISTEMEDU/assets/105472176/2451bb4a-20f8-4e11-94e0-636ea5ae73d3)
 
 ##### Pasos a seguir para el levantamiento de la página y base de datos:
 Para que el proyecto pueda correr correctamente hay que seguir los siguientes pasos:
