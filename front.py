@@ -1,6 +1,6 @@
 #El front (frontend) en programación es la parte visible de una aplicación web o software que los usuarios interactúan directamente,
 #incluyendo diseño, interfaz y experiencia del usuario.
-#IMPORTAR LIBRERIA PARA USAR FRAMEWORK FLASK
+#IMPORTAR LIBRERIA PARA USAR EL FRAMEWORK FLASK
 #Flask es un framework web ligero y flexible para Python que se utiliza para construir aplicaciones web.
 from flask import Flask,request, session, redirect, url_for
 from flask import render_template
