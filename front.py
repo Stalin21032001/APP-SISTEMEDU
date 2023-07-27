@@ -1,4 +1,5 @@
 #IMPORTAR LIBRERIA PARA USAR FRAMEWORK FLASK
+#Flask es un framework web ligero y flexible para Python que se utiliza para construir aplicaciones web.
 from flask import Flask,request, session, redirect, url_for
 from flask import render_template
 import os
@@ -253,7 +254,7 @@ def calificar():
     except:
         pass
     
-    # conectarse a la base de datos
+    # conectarse a la base de datos (Un cursor se crea para interactuar con bases de datos en lenguajes de programación. Facilita ejecutar consultas y recuperar, insertar o actualizar datos de manera eficiente.)  
     cur2 = connection.cursor()
 
     # ejecutar la consulta INSERT con parámetros de sustitución
