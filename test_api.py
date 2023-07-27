@@ -76,3 +76,5 @@ if __name__ == "__main__":
     tester.test_admin_inscEstudiante()
     tester.test_admin_inscDocente()
     tester.test_info()
+    
+#Para que recopile la informacion ingresada en la pagina web y salga a la base de datos utilizada
