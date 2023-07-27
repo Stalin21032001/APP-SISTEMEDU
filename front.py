@@ -1,4 +1,4 @@
-#El "front" (frontend) en programación es la parte visible de una aplicación web o software que los usuarios interactúan directamente,
+#El front (frontend) en programación es la parte visible de una aplicación web o software que los usuarios interactúan directamente,
 #incluyendo diseño, interfaz y experiencia del usuario.
 #IMPORTAR LIBRERIA PARA USAR FRAMEWORK FLASK
 #Flask es un framework web ligero y flexible para Python que se utiliza para construir aplicaciones web.
