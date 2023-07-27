@@ -1,7 +1,5 @@
 # Universidad Politecnica Salesiana
-INGENIERÍA DE SOFTWARE 
-
-(GRUPO - 1)
+INGENIERÍA DE SOFTWARE (GRUPO - 1)
 # SistemaEducativo(App)
 ![image](https://github.com/Stalin21032001/APP-SISTEMEDU/assets/105472176/09bdde76-0594-4760-b1fc-8f759a29a987)
 Universidad Politecnica Salesiana
