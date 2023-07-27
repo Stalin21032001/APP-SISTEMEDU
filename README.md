@@ -1,6 +1,6 @@
 # SistemaEducativo(App)
 ![image](https://github.com/Stalin21032001/APP-SISTEMEDU/assets/105472176/09bdde76-0594-4760-b1fc-8f759a29a987)
-
+%Universidad Politecnica Salesiana
 ## Acerca de:
 Nuestra aplicación de software educativo utiliza Flask y MySQL para brindar un sistema eficiente y seguro. Con Flask, desarrollamos una interfaz web intuitiva y adaptable, permitiendo a los usuarios acceder a contenido educativo y gestionar su progreso. La integración con MySQL nos proporciona una base de datos robusta para almacenar información de estudiantes, calificaciones y materiales de estudio. Con esta combinación tecnológica, ofrecemos una plataforma educativa completa y personalizable que optimiza el aprendizaje y facilita la administración de recursos en un entorno educativo.
 
