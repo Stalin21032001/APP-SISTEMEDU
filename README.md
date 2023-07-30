@@ -6,10 +6,10 @@ Universidad Politecnica Salesiana
 ## Acerca de:
 Nuestra aplicación de software educativo utiliza Flask y MySQL para brindar un sistema eficiente y seguro. Con Flask, desarrollamos una interfaz web intuitiva y adaptable, permitiendo a los usuarios acceder a contenido educativo y gestionar su progreso. La integración con MySQL nos proporciona una base de datos robusta para almacenar información de estudiantes, calificaciones y materiales de estudio. Con esta combinación tecnológica, ofrecemos una plataforma educativa completa y personalizable que optimiza el aprendizaje y facilita la administración de recursos en un entorno educativo.
 
-1. Ericsson Aguirre -> FRONTEND - BBDD
-2. Stalin Cacuango -> FRONTEND - BBDD
-3. Ronny Michilena -> FRONTEND - BBDD
-4. Mauricio Vega -> FRONTEND - BBDD
+1. Ericsson Aguirre -> BACKEND - BBDD
+2. Stalin Cacuango -> BACKEND - BBDD
+3. Ronny Michilena -> BBDD
+4. Mauricio Vega -> BBDD
 
 ![grupo](https://github.com/Stalin21032001/APP-SISTEMEDU/assets/105472176/2451bb4a-20f8-4e11-94e0-636ea5ae73d3)
 
